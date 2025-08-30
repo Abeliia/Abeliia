@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -22,7 +22,9 @@
 
 ###
 
-<h6 align="left">Sou desenvolvedora em fase de aprendizado com foco na linguagem C, onde aplico conceitos de baixo nível para construção de soluções eficientes e seguras. Tenho forte interesse na área de segurança da informação, explorando práticas de proteção de sistemas, criptografia e análise de vulnerabilidades.<br><br>Além disso, estou me aprofundando em análise de dados e banco de dados, buscando compreender estruturas, modelagem e técnicas de extração de insights que apoiem decisões estratégicas. Meu perfil é orientado ao aprendizado contínuo, e a leitura é uma das minhas principais ferramentas para evolução técnica e intelectual.<br><br>Acredito que a combinação entre conhecimento sólido, curiosidade e prática constante é essencial para construir soluções relevantes e seguras no mundo da tecnologia.</h6>
+<br clear="both">
+
+<h5 align="left">Sou desenvolvedora em fase de aprendizado com foco na linguagem C, onde aplico conceitos de baixo nível para construção de soluções eficientes e seguras. Tenho forte interesse na área de segurança da informação, explorando práticas de proteção de sistemas, criptografia e análise de vulnerabilidades.<br><br>Além disso, estou me aprofundando em análise de dados e banco de dados, buscando compreender estruturas, modelagem e técnicas de extração de insights que apoiem decisões estratégicas. Meu perfil é orientado ao aprendizado contínuo, e a leitura é uma das minhas principais ferramentas para evolução técnica e intelectual.<br><br>Acredito que a combinação entre conhecimento sólido, curiosidade e prática constante é essencial para construir soluções relevantes e seguras no mundo da tecnologia.</h5>
 
 ###
 
@@ -43,18 +45,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abeliia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-
-
 
 ###
