@@ -1,49 +1,55 @@
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img height="150" src="https://camo.githubusercontent.com/18bdaea89f84762163e18cdf8f90f8ebd8f947da75058acf5b74a1969e4651ac/68747470733a2f2f626c6f676765722e676f6f676c6575736572636f6e74656e742e636f6d2f696d672f622f523239765a32786c2f4156765873456a436e596338756b394d714d67475661627a3475754650535a485f356345635244675255644b6261564b5a5757727537562d687a704d45396463594459786d5930436c314953596a6c49693644414d355f49576a476842706475324674434567627a6d6437613741594b4d523473596e2d4d3955545054774554736436547a454561336952557479724f3042452f73313630302f35324162656c68696e6861736d61676961676966732e676966"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="bluesky logo"  />
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="50" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCnYc8uk9MqMgGVabz4uuFPSZH_5cEcRDgRUdKbaVKZWWru7V-hzpME9dcYDYxmY0Cl1ISYjlIi6DAM5_IWjGhBpdu2FtCEgbzmd7a7AYKMR4sYn-M9UTPTwETsd6TzEEa3iRUtyrO0BE/s1600/52Abelhinhasmagiagifs.gif"  />
-</div>
-
-###
-
-<h2 align="center">₊ ⊹𝙾𝚕a 𝚊 𝚝𝚘𝚍𝚘𝚜!₊ ⊹</h2>
-
-###
-
-<h4 align="center">Para quem está chegando agora: <br>Me chamo Kamilly, tenho 21 anos e estou cursando Bacharelado em ciência da computação!</h4>
-
-###
-
-<br clear="both">
-
-<h5 align="left">Sou desenvolvedora em fase de aprendizado com foco na linguagem C, onde aplico conceitos de baixo nível para construção de soluções eficientes e seguras. Tenho forte interesse na área de segurança da informação, explorando práticas de proteção de sistemas, criptografia e análise de vulnerabilidades.<br><br>Além disso, estou me aprofundando em análise de dados e banco de dados, buscando compreender estruturas, modelagem e técnicas de extração de insights que apoiem decisões estratégicas. Meu perfil é orientado ao aprendizado contínuo, e a leitura é uma das minhas principais ferramentas para evolução técnica e intelectual.<br><br>Acredito que a combinação entre conhecimento sólido, curiosidade e prática constante é essencial para construir soluções relevantes e seguras no mundo da tecnologia.</h5>
-
-###
-
-<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Abeliia.Abeliia&"  />
 </div>
 
 ###
 
+<h3 align="center">Hello world!</h3>
+
+###
+
+<h3 align="left">👩‍💻  Sobre mim</h3>
+
+###
+
+<p align="left">Estudante de Ciência da Computação com foco em Segurança da Informação, infraestrutura e redes. Possuo conhecimentos em Linux/Kali Linux, redes de computadores, troubleshooting, linha de comando, Cisco Packet Tracer, Wireshark, Nmap, Splunk, análise básica de vulnerabilidades e fundamentos de segurança ofensiva e defensiva.<br><br>Tenho interesse em segurança de redes, análise de sistemas, monitoramento de eventos, ambientes Linux e ferramentas voltadas à cibersegurança, buscando constante evolução técnica através de laboratórios práticos, estudos e projetos na área.</p>
+
+###
+
+<h3 align="left">🛠 Linguagem e ferramentas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://streak-stats.demolab.com?user=Abeliia&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
