@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media.tenor.com/WusSRICR92EAAAAi/bees-hive.gif"  />
+ <img width="348" height="272" alt="image" src="https://github.com/user-attachments/assets/4971ca9f-3290-48f3-a174-1617959175be" />
+
 </div>
 
 ###
