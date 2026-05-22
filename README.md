@@ -1,5 +1,5 @@
 <div align="center">
-<img width="480" height="480" alt="Code Hacking GIF by Pizza Ninjas" src="https://github.com/user-attachments/assets/148ff7b2-f13e-4418-9649-9651bfffc60b" />
+<img width="240" height="240" alt="Code Hacking GIF by Pizza Ninjas" src="https://github.com/user-attachments/assets/148ff7b2-f13e-4418-9649-9651bfffc60b" />
 </div>
 
 ###
