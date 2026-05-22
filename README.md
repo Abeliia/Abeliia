@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Estudante de Ciência da Computação com foco em Segurança da Informação, infraestrutura e redes. Possuo conhecimentos em Linux/Kali Linux, redes de computadores, troubleshooting, linha de comando, Cisco Packet Tracer, Wireshark, Nmap, Splunk, análise básica de vulnerabilidades e fundamentos de segurança ofensiva e defensiva.<br><br>Tenho interesse em segurança de redes, análise de sistemas, monitoramento de eventos, ambientes Linux e ferramentas voltadas à cibersegurança, buscando constante evolução técnica através de laboratórios práticos, estudos e projetos na área.</p>
+<p align="left">Estudante de Ciência da Computação com foco em Segurança da Informação, infraestrutura e redes. Possuo conhecimentos em Linux/Kali Linux, redes de computadores, MySQL, troubleshooting, CLI, Cisco Packet Tracer, Nmap, Splunk, análise básica de vulnerabilidades e fundamentos de segurança ofensiva e defensiva.<br><br>Tenho interesse em segurança de redes, análise de sistemas, monitoramento de eventos, ambientes Linux e ferramentas voltadas à cibersegurança, buscando constante evolução técnica através de laboratórios práticos, estudos e projetos na área.</p>
 
 ###
 
