@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
 <img src="./Abeliia/coder-cat.jpeg"width="250px" />
-</div>
+</p>
 
 ###
 
