@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Abeliia/Abeliia/blob/8d3777d353aadc9480d95ec2f4b234c1febbce69/coder-cat.jpeg?raw=true" width="250px" />
+<img src="https://github.com/Abeliia/Abeliia/blob/45c8c8946cde7b89e23355ff338e2a6e5e04ee79/Hi!%2C%20I%E2%80%99m%20Kamilly!.png?raw=true" width="250px" />
 </p>
 
 ###
