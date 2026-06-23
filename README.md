@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Abeliia/Abeliia/blob/45c8c8946cde7b89e23355ff338e2a6e5e04ee79/Hi!%2C%20I%E2%80%99m%20Kamilly!.png?raw=true" width="400px" />
+<img src="https://github.com/Abeliia/Abeliia/blob/8179428f978f4b128e81067b82def0327a7c1771/Hi!%2C%20I%E2%80%99m%20Kamilly!(Editado).png?raw=true" width="400px" />
 </p>
 
 ###
