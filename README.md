@@ -16,7 +16,7 @@
         <img src="https://github.com/Abeliia/Abeliia/blob/eaba78216f3ecd40fd0e6b97c6c19edee1836b2d/coder-cat.jpeg?raw=true" width="300px" />
         </td>
       </tr>
-    </table>
+</table>
 
 ###
     
