@@ -1,5 +1,5 @@
 <div align="center">
-<img width="240" height="240" alt="Hi!, I’m Kamilly!.png" />
+<img src="./Abeliia/coder-cat.jpeg"width="250px" />
 </div>
 
 ###
