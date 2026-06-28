@@ -22,9 +22,17 @@ I am interested in Defensive Security (Blue Team) and Offensive Security (Red Te
 * SIEM: Splunk
 * Nmap
 * OS: Kali Linux/ Linux
+* SQL
 * Packet Tracer
 * Power BI
 * Excel Advanced (VLOOKUP) (XLOOKUP)
+---
+
+### <h2> ✦ Languages ✦ </h2>
+* Portuguese: Native Proeficience
+* English: Intermediate Proeficience
+* Spanish: Basic Proeficience
+
 ---
 
 <div align="left">
