@@ -35,14 +35,7 @@ I am interested in Defensive Security (Blue Team) and Offensive Security (Red Te
 
 ---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-###
+### <h1> Let's Talk! </h1> 
+📲 +55 (11) 91163-0106 | 📩 kamillynascimento63176@gmail.com 
 
 
