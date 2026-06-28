@@ -34,8 +34,7 @@ I am interested in Defensive Security (Blue Team) and Offensive Security (Red Te
 * Spanish: Basic Proeficience
 
 ---
-
-### <h1> Let's Talk! </h1> 
+<div align="center">
+### <h2> ✦ Let's Talk! ✦ </h2> 
 📲 +55 (11) 91163-0106 | 📩 kamillynascimento63176@gmail.com 
-
-
+</div>
