@@ -10,10 +10,10 @@ I am interested in Defensive Security (Blue Team) and Offensive Security (Red Te
 ---
 ### <h2> Knowledge and Skills</h2>
 
-* **ISO/IEC 27001 & LGPD
-* **Networking Fundamentals / Protocols
-* **IAM (Identity and Access Management)
-* ** Firewall
+* ISO/IEC 27001 & LGPD
+* Networking Fundamentals / Protocols
+* IAM (Identity and Access Management)
+* Firewall
 
 ---
 
