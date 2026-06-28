@@ -25,7 +25,7 @@ I am interested in Defensive Security (Blue Team) and Offensive Security (Red Te
 * SQL
 * Packet Tracer
 * Power BI
-* Excel Advanced (VLOOKUP) (XLOOKUP)
+* Excel Advanced 
 ---
 
 ### <h2> ✦ Languages ✦ </h2>
