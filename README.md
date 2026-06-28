@@ -3,7 +3,11 @@
 </div>
 
 ---
-Hello everyone! I'm Kamilly, an student 
+
+<h2>Hello everyone! I'm Kamilly, and I am a Computer Science student. I am currently entering my 6° semester (2026/2).
+Currently, I am seeking my first opportunity to work in the fields of information security and networking.
+I am interested in Defensive Security (Blue Team) and Offensive Security (Red Team), and I have been expanding my knowledge of ISO standards and LGPD to pursue a potential opportunity in Governance, Risk, and Compliance (GRC).</h2>
+
 ---
 
 
