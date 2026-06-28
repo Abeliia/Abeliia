@@ -8,7 +8,8 @@ Currently, I am seeking my first opportunity to work in the fields of informatio
 I am interested in Defensive Security (Blue Team) and Offensive Security (Red Team), and I have been expanding my knowledge of ISO standards and LGPD to pursue a potential opportunity in Governance, Risk, and Compliance (GRC).
 
 ---
-<h2> Knowledge and Skills</h2>
+### <h2> Knowledge and Skills</h2>
+
 * **ISO/IEC 27001 & LGPD
 * **Networking Fundamentals / Protocols
 * **IAM (Identity and Access Management)
